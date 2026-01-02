@@ -47,7 +47,7 @@ const Meta = () => {
 			<title>{title}</title>
 			<meta name="description" content={`Start page of ${settings.username}`} />
 			<meta name="viewport" content="width=device-width, initial-scale=1" />
-			{icon && <link rel="icon" type={iconType} href={`${icon}`} />}
+		<link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" />
 			<meta name="robots" content="noindex, nofollow"></meta>
 		</Head>
 	)
