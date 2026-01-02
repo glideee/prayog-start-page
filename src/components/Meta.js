@@ -17,7 +17,10 @@ const Meta = () => {
 			<title>{title}</title>
 			<meta name="description" content={description} />
 			<meta name="viewport" content="width=device-width, initial-scale=1" />
-			<link rel="icon" href={blankIcon} />
+			<link
+				rel="icon"
+				href={blankIcon}
+			/>
 			<meta name="robots" content="noindex, nofollow" />
 		</Head>
 	)
