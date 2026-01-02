@@ -115,164 +115,88 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
-				"color": "green",
-				"align": "left",
-				"links": [
-					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
-					},
-					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
-					},
-					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
-					},
-					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
-					}
-				]
-			},
-			{
-				"title": "Dev",
+				"title": "Social",
 				"color": "magenta",
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
+						"name": "YouTube",
+						"url": "https://www.youtube.com/",
+						"icon": "mdi:youtube"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "Instagram",
+						"url": "https://www.instagram.com/direct/inbox/",
+						"icon": "mdi:instagram"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
+						"name": "Discord",
+						"url": "https://discord.com/channels/@me",
+						"icon": "ic:baseline-discord"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "Reddit",
+						"url": "https://www.reddit.com/",
+						"icon": "mdi:reddit"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/",
+						"icon": "mdi:facebook"
+					},
+					{
+						"name": "WhatsApp",
+						"url": "https://web.whatsapp.com/",
+						"icon": "mdi:whatsapp"
 					}
 				]
 			},
 			{
-				"title": "Social",
+				"title": "Creative & Tools",
 				"color": "cyan",
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "Photopea",
+						"url": "https://www.photopea.com/",
+						"icon": "simple-icons:photopea"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "Canva",
+						"url": "https://www.canva.com/",
+						"icon": "simple-icons:canva"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
+						"name": "Fakemail",
+						"url": "https://www.fakemail.net/",
+						"icon": "mdi:email-outline"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Patro",
+						"url": "https://www.hamropatro.com/",
+						"icon": "mdi:calendar-month"
 					}
 				]
 			},
 			{
-				"title": "Gaming",
-				"color": "red",
-				"align": "left",
-				"links": [
-					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
-					},
-					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
-					},
-					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
-					},
-					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
-					}
-				]
-			},
-			{
-				"title": "Science",
-				"color": "blue",
-				"align": "left",
-				"links": [
-					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
-					},
-					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
-					},
-					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
-					},
-					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
-					}
-				]
-			},
-			{
-				"title": "Tech",
+				"title": "Files & Study",
 				"color": "yellow",
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Schedule",
+						"url": "https://schedulee.pages.dev/",
+						"icon": "mdi:clock-outline"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "Teachers",
+						"url": "https://teache.pages.dev/",
+						"icon": "mdi:school"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Google Scholar",
+						"url": "https://scholar.google.com/",
+						"icon": "simple-icons:googlescholar"
 					}
 				]
 			}
