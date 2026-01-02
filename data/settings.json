@@ -76,21 +76,6 @@
 				"url": "https://google.com/search?q={}"
 			},
 			{
-				"alias": "d",
-				"name": "DuckDuckGo Search",
-				"url": "https://duckduckgo.com/?q={}"
-			},
-			{
-				"alias": "!d",
-				"name": "DuckDuckGo Lucky Search",
-				"url": "https://duckduckgo.com/?q=!ducky+{}"
-			},
-			{
-				"alias": "b",
-				"name": "Brave Search",
-				"url": "https://search.brave.com/search?q={}"
-			},
-			{
 				"alias": "gh",
 				"name": "Github Search",
 				"url": "https://github.com/search?q={}"
@@ -99,16 +84,6 @@
 				"alias": "s",
 				"name": "Stack Overflow Search",
 				"url": "https://stackoverflow.com/search?q={}"
-			},
-			{
-				"alias": "r",
-				"name": "Subreddit Search",
-				"url": "https://reddit.com/r/{}"
-			},
-			{
-				"alias": "w",
-				"name": "Wikipedia Search",
-				"url": "https://en.wikipedia.org/wiki/{}"
 			}
 		]
 	},
@@ -140,19 +115,19 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Facebook",
-						"url": "https://www.facebook.com/",
-						"icon": "mdi:facebook"
-					},
-					{
 						"name": "WhatsApp",
 						"url": "https://web.whatsapp.com/",
 						"icon": "mdi:whatsapp"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/",
+						"icon": "mdi:facebook"
 					}
 				]
 			},
 			{
-				"title": "Creative & Tools",
+				"title": "Creative",
 				"color": "cyan",
 				"align": "left",
 				"links": [
@@ -167,34 +142,34 @@
 						"icon": "simple-icons:canva"
 					},
 					{
-						"name": "Fakemail",
-						"url": "https://www.fakemail.net/",
-						"icon": "mdi:email-outline"
-					},
-					{
 						"name": "Patro",
 						"url": "https://www.hamropatro.com/",
 						"icon": "mdi:calendar-month"
+					},
+					{
+						"name": "Fakemail",
+						"url": "https://www.fakemail.net/",
+						"icon": "mdi:email-fast-outline"
 					}
 				]
 			},
 			{
-				"title": "Files & Study",
+				"title": "Academic",
 				"color": "yellow",
 				"align": "left",
 				"links": [
 					{
 						"name": "Schedule",
 						"url": "https://schedulee.pages.dev/",
-						"icon": "mdi:clock-outline"
+						"icon": "mdi:calendar-clock"
 					},
 					{
 						"name": "Teachers",
 						"url": "https://teache.pages.dev/",
-						"icon": "mdi:school"
+						"icon": "mdi:account-group"
 					},
 					{
-						"name": "Google Scholar",
+						"name": "Scholar",
 						"url": "https://scholar.google.com/",
 						"icon": "simple-icons:googlescholar"
 					}
